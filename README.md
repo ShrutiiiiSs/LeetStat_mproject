@@ -1,4 +1,4 @@
-# LeetStat_mproject
+# LeetStat
 A web-based application that allows users to fetch and display their LeetCode stats dynamically. This project interacts with the LeetCode API to show user progress and achievements.
 ## Features
 - Fetch user stats from the LeetCode API.
